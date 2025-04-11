@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+#projects {
+    margin-bottom: 20px;
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}
+
+#Faculty , #Students{
+    margin: 20px;
+    text-indent: 20px;
+}
+
+p.Feature{
+    margin: 20px;
+}
+
+p.Language {
+    text-indent: 40px;
+}
+
+section#about {
+    text-align: center;
+}
+
+h3.Project_Name {
+    text-align: center;
+}
+
+.Future, .Purpose {
+    text-indent: 20px;
+}
+
+h2 {
+    margin-left: -20px;
+}
